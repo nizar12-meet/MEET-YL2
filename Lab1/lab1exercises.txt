@@ -1,0 +1,20 @@
+(A):
+>>>I got into (Desktop) then (MEET-YL2) then (Lab1) then (y2-yearlong-django-review) then (toplists)
+   then I wrote : "python manage.py syncdb"......... then "python manage.py runserver"
+>>>127.0.0.1:8000/
+
+(b):
+>>> http://127.0.0.1:8000/movies/1/
+>>> http://127.0.0.1:8000/movies/2/
+>>> http://127.0.0.1:8000/movies/100/
+
+(C):
+>>>addmovies
+>>>movie
+>>>You get nothing, because the browser doesn't understand what "shrek" means...because no function defines it...
+
+(D):
+>>> I DID :)
+
+
+
