@@ -20,6 +20,7 @@ def add_movie(request):
     return HttpResponseRedirect('/movies')
 
 def movie(request, movie_id):
+    context= {"movie id":}
     return render(request, 'movies/movie.html', context) 
 
 def add_comment(request, movie_id):
